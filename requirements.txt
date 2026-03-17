@@ -1,4 +1,5 @@
-streamlit
+streamlit 
+mediapipe 
+opencv-python 
+pillow 
 numpy
-plotly
-sympy
